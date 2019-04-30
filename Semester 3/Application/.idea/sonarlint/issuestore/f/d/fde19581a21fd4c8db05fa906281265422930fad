@@ -1,0 +1,3 @@
+
+wsquid:S2273"`Move this call to "wait()" into a synchronized block to be sure the monitor on "Server" is held.(‹‚δυ
+Qsquid:S2274":Remove this call to "wait" or move it into a "while" loop.(‹‚δυ

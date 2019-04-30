@@ -1,0 +1,86 @@
+
+Idata.mssqlcontexts.QuizMSSQLContext#openConnection()Ljava/sql/Connection;
+__unknown_file ("9*¨
+1a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (¿
+Ω
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (
+%8java.sql.Connection"__id*7*5%
+#data.mssqlcontexts.QuizMSSQLContext"
+
+connection"Ä
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (
+
+%8java.sql.Connection*Æ
+5a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (Q¿
+Ω
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (Q5%
+#data.mssqlcontexts.QuizMSSQLContext"
+
+connection"__id*
+
+%3java.sql.Connection*
+1*Ÿ
+6a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java" (1ù
+ö
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (2
+userNamejava.lang.String"__id*
+dbi380705_uizñ
+ì
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (+
+passwordjava.lang.String"__id*
+
+DeQuizƒ
+¡
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (Y
+urljava.lang.String"__id*=;
+9jdbc:sqlserver://mssql.fhict.local;database=dbi380705_uizÎ
+Ë
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (Q
+%3java.sql.Connection"qjava.sql.DriverManager#getConnection(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;*"
+java.sql.DriverManager*
+
+urljava.lang.String*
+
+userNamejava.lang.String*
+
+passwordjava.lang.String*
+5*Û
+8a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java& (0¿
+Ω
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java& (0
+%1java.sql.Connection"__id*7*5%
+#data.mssqlcontexts.QuizMSSQLContext"
+
+connectionøº
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java& (;
+%2boolean"java.sql.Connection#isClosed()Z*
+
+%1java.sql.Connection2
+isClosed()*
+6
+1*±
+9a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (¿
+Ω
+a
+WD:\Software Big Idea\Application\src\main\java\data\mssqlcontexts\QuizMSSQLContext.java (
+%0java.sql.Connection"__id*7*5%
+#data.mssqlcontexts.QuizMSSQLContext"
+
+connection*
+6
+8B'%
+#data.mssqlcontexts.QuizMSSQLContext

@@ -1,0 +1,7 @@
+organization=mj1812-github
+projectKey=Mj1812_BigIdea
+serverUrl=https://sonarcloud.io
+serverVersion=7.6.0.20657
+dashboardUrl=https://sonarcloud.io/dashboard?id=Mj1812_BigIdea
+ceTaskId=AWhJYBKa38w037JbzsxE
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWhJYBKa38w037JbzsxE

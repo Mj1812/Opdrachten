@@ -1,0 +1,17 @@
+
+?websockets.messages.InitMessage#getUsername()Ljava/lang/String;
+__unknown_file ("1*“
+1]
+SD:\Software Big Idea\Application\src\main\java\websockets\messages\InitMessage.java (³
+°
+]
+SD:\Software Big Idea\Application\src\main\java\websockets\messages\InitMessage.java (
+%0java.lang.String"__id*1*/!
+websockets.messages.InitMessage"
+
+username"y
+]
+SD:\Software Big Idea\Application\src\main\java\websockets\messages\InitMessage.java (
+
+%0java.lang.StringB#!
+websockets.messages.InitMessage

@@ -1,0 +1,183 @@
+
+'quizgame.QuizClient#notifyWhenReady(I)Z
+__unknown_file ("11*∑
+1S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaú ú("]
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaú ú(
+""*Ò
+5S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï ï([ëé
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï ï([
+%23void"Bjavax.websocket.RemoteEndpoint$Basic#sendText(Ljava/lang/String;)V*-
++
+%21$javax.websocket.RemoteEndpoint$Basic*
+
+%22java.lang.String2sendText(Ljava/lang/String;)*
+1*ê
+6S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï; ï(?∞≠
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï; ï(Z
+%22java.lang.String"Acom.google.gson.Gson#toJson(Ljava/lang/Object;)Ljava/lang/String;*
+
+gsoncom.google.gson.Gson*>
+<
+playerReadyPackage&websockets.messages.PlayerReadyMessage2toJson(Ljava/lang/Object;)*
+5*ê
+7S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï ï(§
+°
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï ï( 
+%20javax.websocket.Session"__id*$*"
+quizgame.QuizClient"	
+sessionâÜ
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaï ï(1+
+%21$javax.websocket.RemoteEndpoint$Basic"Njavax.websocket.Session#getBasicRemote()Ljavax/websocket/RemoteEndpoint$Basic;* 
+
+%20javax.websocket.Session2getBasicRemote()*
+6*©
+8S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaíO í(Z†
+ù
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaíO í(f
+%12enums.MessageType"__id*&*$
+enums.MessageType"
+PLAYERREADYô
+ñ
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaíh í(n
+%13domain.Player"__id*#*!
+quizgame.QuizClient"
+playerÕ 
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaíh í(
+%14domain.Playblock"0domain.Player#getPlayerBlock()Ldomain/Playblock;*
+
+%13domain.Player2getPlayerBlock()Ã…
+T
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaíh í(é
+%15java.util.List"/domain.Playblock#getQuestions()Ljava/util/List;*
+
+%14domain.Playblock2getQuestions()Ø¨
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaí< í(N-
+%16&websockets.messages.PlayerReadyMessage"&websockets.messages.PlayerReadyMessageõ
+ò
+T
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaí8 í(è
+%17"Swebsockets.messages.PlayerReadyMessage#<init>(Lenums/MessageType;Ljava/util/List;)V*/
+-
+%16&websockets.messages.PlayerReadyMessage*
+
+%12enums.MessageType*
+
+%15java.util.ListŒ
+À
+T
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaí í(ê<
+playerReadyPackage&websockets.messages.PlayerReadyMessage"__id*/
+-
+%16&websockets.messages.PlayerReadyMessageãà
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaì  ì($
+%18com.google.gson.Gson"com.google.gson.Gsonû
+õ
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaì ì(&
+%19"com.google.gson.Gson#<init>()V*
+
+%18com.google.gson.Gsonõ
+ò
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaì ì('
+gsoncom.google.gson.Gson"__id*
+
+%18com.google.gson.Gson*
+7*è
+9S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaê ê(ö
+ó
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaê ê(
+%5domain.Account"__id*$*"
+quizgame.QuizClient"	
+account›⁄
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaê ê(-
+%6gui.IQuizGameApplication"9domain.Account#getApplication()Lgui/IQuizGameApplication;*
+
+%5domain.Account2getApplication()ö
+ó
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaê> ê(J
+%7domain.Account"__id*$*"
+quizgame.QuizClient"	
+accountùö
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaê> ê(R	
+%8int"domain.Account#getId()I*
+
+%7domain.Account2getId()ö
+ó
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaêT ê(`
+%9domain.Account"__id*$*"
+quizgame.QuizClient"	
+account¿Ω
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaêT ê(j
+%10java.lang.String"*domain.Account#getName()Ljava/lang/String;*
+
+%9domain.Account2	getName()ïí
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaê ê(k
+%11void">gui.IQuizGameApplication#notifyStartGame(ILjava/lang/String;)V* 
+
+%6gui.IQuizGameApplication*
+	
+%8int*
+
+%10java.lang.String2$notifyStartGame(ILjava/lang/String;)*
+1*û
+10S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaé é(ö
+ó
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaè è(
+%3domain.Account"__id*$*"
+quizgame.QuizClient"	
+accountùö
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaè è($	
+%4int"domain.Account#getId()I*
+
+%3domain.Account2getId()*
+8
+9*Ì
+11S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaå å(û
+õ
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaç ç(
+%0domain.Playblock"__id*&*$
+quizgame.QuizClient"
+	playBlock…∆
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaç ç()
+%1java.util.List"/domain.Playblock#getQuestions()Ljava/util/List;*
+
+%0domain.Playblock2getQuestions()õò
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.javaç ç(0	
+%2int"java.util.List#size()I*
+
+%1java.util.List2size()*
+10
+1:
+""B
+quizgame.QuizClient

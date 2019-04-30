@@ -1,0 +1,21 @@
+
+Dlogic.repositories.QuestionRepository#getQuestions()Ljava/util/List;
+__unknown_file ("1*Ò
+1c
+YD:\Software Big Idea\Application\src\main\java\logic\repositories\QuestionRepository.java (Þ
+Û
+c
+YD:\Software Big Idea\Application\src\main\java\logic\repositories\QuestionRepository.java (-
+%0'data.contextinterfaces.IQuestionContext"__id*?*='
+%logic.repositories.QuestionRepository"
+iQuestionContext‡„
+c
+YD:\Software Big Idea\Application\src\main\java\logic\repositories\QuestionRepository.java (.
+%1java.util.List"Fdata.contextinterfaces.IQuestionContext#getQuestions()Ljava/util/List;*/
+-
+%0'data.contextinterfaces.IQuestionContext2getQuestions()"}
+c
+YD:\Software Big Idea\Application\src\main\java\logic\repositories\QuestionRepository.java (/
+
+%1java.util.ListB)'
+%logic.repositories.QuestionRepository

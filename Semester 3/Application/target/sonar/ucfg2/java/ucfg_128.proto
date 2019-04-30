@@ -1,0 +1,97 @@
+
+grestapi.services.AuthenticationService#loginUser(Lrestapi/viewmodels/Login;)Ljavax/ws/rs/core/Response;
+__unknown_file ("paramAnnotations*ˆ
+1d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java ( Á
+¾
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java ( 
+%0com.google.gson.Gson"__id*4*2(
+&restapi.services.AuthenticationService"
+gsonï
+ì
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java( (.F
+%1@restapi.restservercontexten.authentication.IAuthenticationServer"__id*6*4(
+&restapi.services.AuthenticationService"
+serverÚ×
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java( (K.
+%2(restapi.responses.AuthenticationResponse"œrestapi.restservercontexten.authentication.IAuthenticationServer#getAccountInformation(Lrestapi/viewmodels/Login;)Lrestapi/responses/AuthenticationResponse;*H
+F
+%1@restapi.restservercontexten.authentication.IAuthenticationServer*#
+!
+loginrestapi.viewmodels.Login21getAccountInformation(Lrestapi/viewmodels/Login;)°­
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (L
+%3java.lang.String"Acom.google.gson.Gson#toJson(Ljava/lang/Object;)Ljava/lang/String;*
+
+%0com.google.gson.Gson*0
+.
+%2(restapi.responses.AuthenticationResponse2toJson(Ljava/lang/Object;)¥
+¢
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (M
+outputjava.lang.String"__id*
+
+%3java.lang.String
+
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java ('/
+%4)javax.ws.rs.core.Response$ResponseBuilder"Njavax.ws.rs.core.Response#status(I)Ljavax/ws/rs/core/Response$ResponseBuilder;*"
+javax.ws.rs.core.Response*2Èøõ
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (6/
+%5)javax.ws.rs.core.Response$ResponseBuilder"ojavax.ws.rs.core.Response$ResponseBuilder#entity(Ljava/lang/Object;)Ljavax/ws/rs/core/Response$ResponseBuilder;*1
+/
+%4)javax.ws.rs.core.Response$ResponseBuilder*
+
+outputjava.lang.String2entity(Ljava/lang/Object;)”‘
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (>
+%6javax.ws.rs.core.Response"Ljavax.ws.rs.core.Response$ResponseBuilder#build()Ljavax/ws/rs/core/Response;*1
+/
+%5)javax.ws.rs.core.Response$ResponseBuilder2build()"‰
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (?!
+
+%6javax.ws.rs.core.Response*á
+paramAnnotationsd
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java! (.¶
+³
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (
+%7"
+__annotate*
+javax.ws.rs.POST*#
+!
+loginrestapi.viewmodels.Login¶
+³
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (
+%8"
+__annotate*
+javax.ws.rs.Path*#
+!
+loginrestapi.viewmodels.Loginº
+·
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java (-
+%9"
+__annotate*
+javax.ws.rs.Consumes*#
+!
+loginrestapi.viewmodels.Login²
+¯
+d
+ZD:\Software Big Idea\Application\src\main\java\restapi\services\AuthenticationService.java( (-!
+loginrestapi.viewmodels.Login"__annotation*
+
+%7*
+
+%8*
+
+%9*
+1:!
+loginrestapi.viewmodels.LoginB*(
+&restapi.services.AuthenticationService

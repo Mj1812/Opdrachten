@@ -1,0 +1,733 @@
+
+3data.testcontexts.QuizQuestionTestContext#<init>()V
+__unknown_file ("1*Çæ
+1g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (ƒ
+¡
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%0java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersêç
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%1domain.Answer"domain.Answer›
+⁄
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (;
+%2",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%1domain.Answer*2*2*
+Harry Potter*
+""ÏÈ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (<
+%3boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%0java.util.List*
+
+%1domain.Answer2add(Ljava/lang/Object;)ƒ
+¡
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%4java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersêç
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%5domain.Answer"domain.Answer‹
+Ÿ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (8
+%6",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%5domain.Answer*2*2*
+Ron Weasley*
+""ÏÈ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (9
+%7boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%4java.util.List*
+
+%5domain.Answer2add(Ljava/lang/Object;)ƒ
+¡
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%8java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersêç
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%9domain.Answer"domain.Answer‚
+ﬂ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (=
+%10",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%9domain.Answer*2*2*
+Hermione Granger*
+""ÌÍ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (>
+%11boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%8java.util.List*
+
+%9domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%12java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%13domain.Answer"domain.Answer„
+‡
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (<
+%14",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%13domain.Answer*2*2*
+Albus Dumbledore*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (=
+%15boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%12java.util.List*
+
+%13domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%16java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%17domain.Answer"domain.Answer‚
+ﬂ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (<
+%18",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%17domain.Answer*2*2*
+Game of Thrones*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (=
+%19boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%16java.util.List*
+
+%17domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%20java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%21domain.Answer"domain.Answer„
+‡
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (=
+%22",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%21domain.Answer*2*2*
+The Walking Dead*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (>
+%23boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%20java.util.List*
+
+%21domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%24java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%25domain.Answer"domain.Answerﬂ
+‹
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (9
+%26",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%25domain.Answer*2*2*
+Black Mirror*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (:
+%27boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%24java.util.List*
+
+%25domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%28java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%29domain.Answer"domain.Answer‚
+ﬂ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (<
+%30",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%29domain.Answer*2*2*
+Stranger Things*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (=
+%31boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%28java.util.List*
+
+%29domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%32java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%33domain.Answer"domain.Answer÷
+”
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (2
+%34",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%33domain.Answer*2	*2*
+Bot*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (3
+%35boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%32java.util.List*
+
+%33domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%36java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%37domain.Answer"domain.Answerﬁ
+€
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (8
+%38",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%37domain.Answer*2
+*2*
+Tandglazuur*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (9
+%39boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%36java.util.List*
+
+%37domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%40java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (
+%41domain.Answer"domain.Answerÿ
+’
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (3
+%42",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%41domain.Answer*2*2*	
+Nagel*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java (4
+%43boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%40java.util.List*
+
+%41domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java   (
+%44java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java   (
+%45domain.Answer"domain.Answer◊
+‘
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java   (2
+%46",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%45domain.Answer*2*2*
+Huid*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java   (3
+%47boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%44java.util.List*
+
+%45domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java! !(
+%48java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java! !(
+%49domain.Answer"domain.Answer◊
+‘
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java! !(4
+%50",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%49domain.Answer*2*2*
+1979*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java! !(5
+%51boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%48java.util.List*
+
+%49domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java" "(
+%52java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java" "(
+%53domain.Answer"domain.Answer◊
+‘
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java" "(1
+%54",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%53domain.Answer*2*2*
+1980*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java" "(2
+%55boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%52java.util.List*
+
+%53domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java# #(
+%56java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java# #(
+%57domain.Answer"domain.Answer◊
+‘
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java# #(2
+%58",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%57domain.Answer*2*2*
+1981*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java# #(3
+%59boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%56java.util.List*
+
+%57domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java$ $(
+%60java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java$ $(
+%61domain.Answer"domain.Answer◊
+‘
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java$ $(3
+%62",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%61domain.Answer*2*2*
+1985*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java$ $(4
+%63boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%60java.util.List*
+
+%61domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java% %(
+%64java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java% %(
+%65domain.Answer"domain.Answerﬁ
+€
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java% %(:
+%66",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%65domain.Answer*2*2*
+Grindelwald*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java% %(;
+%67boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%64java.util.List*
+
+%65domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java& &(
+%68java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java& &(
+%69domain.Answer"domain.Answer›
+⁄
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java& &(8
+%70",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%69domain.Answer*2*2*
+
+Tom Riddle*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java& &(9
+%71boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%68java.util.List*
+
+%69domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java' '(
+%72java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java' '(
+%73domain.Answer"domain.AnswerÂ
+‚
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java' '(@
+%74",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%73domain.Answer*2*2*
+Neville Longbottom*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java' '(A
+%75boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%72java.util.List*
+
+%73domain.Answer2add(Ljava/lang/Object;)≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java( ((
+%76java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersëé
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java( ((
+%77domain.Answer"domain.Answer·
+ﬁ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java( ((<
+%78",domain.Answer#<init>(IILjava/lang/String;Z)V*
+
+%77domain.Answer*2*2*
+Arthur Weasley*
+""ÔÏ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java( ((=
+%79boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%76java.util.List*
+
+%77domain.Answer2add(Ljava/lang/Object;)«
+ƒ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java) )(
+%80java.util.List"__id*<*:+
+)data.testcontexts.QuizQuestionTestContext"
+	questions≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java)L )(X
+%81java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answers≥
+∞
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java)Z )(p
+%82enums.AnswerState"__id*%*#
+enums.AnswerState"
+
+UNANSWEREDïí
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java) )("
+%83domain.Question"domain.Question¡
+æ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java) )(q
+%84"Odomain.Question#<init>(ILjava/lang/String;Ljava/util/List;Lenums/AnswerState;)V*
+
+%83domain.Question*2*&$
+"Who is the headmaster of Hogwarts?*
+
+%81java.util.List*
+
+%82enums.AnswerStateÒÓ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java) )(r
+%85boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%80java.util.List*
+
+%83domain.Question2add(Ljava/lang/Object;)«
+ƒ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java* *(
+%86java.util.List"__id*<*:+
+)data.testcontexts.QuizQuestionTestContext"
+	questions≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java*^ *(j
+%87java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answers¥
+±
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java*l *(Ç
+%88enums.AnswerState"__id*%*#
+enums.AnswerState"
+
+UNANSWEREDïí
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java* *("
+%89domain.Question"domain.Question‘
+—
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java* *(É
+%90"Odomain.Question#<init>(ILjava/lang/String;Ljava/util/List;Lenums/AnswerState;)V*
+
+%89domain.Question*2*86
+4Which show is about the battle between fire and ice?*
+
+%87java.util.List*
+
+%88enums.AnswerStateÚÔ
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java* *(Ñ
+%91boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%86java.util.List*
+
+%89domain.Question2add(Ljava/lang/Object;)«
+ƒ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java+ +(
+%92java.util.List"__id*<*:+
+)data.testcontexts.QuizQuestionTestContext"
+	questions≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java+U +(a
+%93java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answers≥
+∞
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java+c +(y
+%94enums.AnswerState"__id*%*#
+enums.AnswerState"
+
+UNANSWEREDïí
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java+ +("
+%95domain.Question"domain.Question 
+«
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java+ +(z
+%96"Odomain.Question#<init>(ILjava/lang/String;Ljava/util/List;Lenums/AnswerState;)V*
+
+%95domain.Question*2*/-
++What is the hardest part of the human body?*
+
+%93java.util.List*
+
+%94enums.AnswerStateÒÓ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java+ +({
+%97boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%92java.util.List*
+
+%95domain.Question2add(Ljava/lang/Object;)«
+ƒ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java, ,(
+%98java.util.List"__id*<*:+
+)data.testcontexts.QuizQuestionTestContext"
+	questions≈
+¬
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java,d ,(p
+%99java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersµ
+≤
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java,r ,(à
+%100enums.AnswerState"__id*%*#
+enums.AnswerState"
+
+UNANSWEREDñì
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java, ,("
+%101domain.Question"domain.Question›
+⁄
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java, ,(â
+%102"Odomain.Question#<init>(ILjava/lang/String;Ljava/util/List;Lenums/AnswerState;)V*
+
+%101domain.Question*2*><
+:In which year did Beatrix become queen of the Netherlands?*
+
+%99java.util.List*
+
+%100enums.AnswerStateÙÒ
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java, ,(ä
+%103boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%98java.util.List*
+
+%101domain.Question2add(Ljava/lang/Object;)»
+≈
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java- -(
+%104java.util.List"__id*<*:+
+)data.testcontexts.QuizQuestionTestContext"
+	questions∆
+√
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java-X -(d
+%105java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answers¥
+±
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java-f -(|
+%106enums.AnswerState"__id*%*#
+enums.AnswerState"
+
+UNANSWEREDñì
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java- -("
+%107domain.Question"domain.Question—
+Œ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java- -(}
+%108"Odomain.Question#<init>(ILjava/lang/String;Ljava/util/List;Lenums/AnswerState;)V*
+
+%107domain.Question*2*20
+.Which was a love interest of Albus Dumbledore?*
+
+%105java.util.List*
+
+%106enums.AnswerStateÙÒ
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java- -(~
+%109boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%104java.util.List*
+
+%107domain.Question2add(Ljava/lang/Object;)»
+≈
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java. .(
+%110java.util.List"__id*<*:+
+)data.testcontexts.QuizQuestionTestContext"
+	questions∆
+√
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java.^ .(j
+%111java.util.List"__id*:*8+
+)data.testcontexts.QuizQuestionTestContext"	
+answersµ
+≤
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java.l .(Ç
+%112enums.AnswerState"__id*%*#
+enums.AnswerState"
+
+UNANSWEREDñì
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java. .("
+%113domain.Question"domain.Questionÿ
+’
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java. .(É
+%114"Odomain.Question#<init>(ILjava/lang/String;Ljava/util/List;Lenums/AnswerState;)V*
+
+%113domain.Question*2*86
+4When was 'The winner takes it all' of ABBA released?*
+
+%111java.util.List*
+
+%112enums.AnswerStateıÚ
+h
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java. .(Ñ
+%115boolean"'java.util.List#add(Ljava/lang/Object;)Z*
+
+%110java.util.List*
+
+%113domain.Question2add(Ljava/lang/Object;)*
+0*Ö
+0 "~
+g
+]D:\Software Big Idea\Application\src\main\java\data\testcontexts\QuizQuestionTestContext.java/ /(
+implicit returnB-+
+)data.testcontexts.QuizQuestionTestContext

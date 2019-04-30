@@ -1,0 +1,222 @@
+
+}restapi.RestClient#executeHttpUriRequest(Lorg/apache/http/client/methods/HttpUriRequest;)Lrestapi/responses/QuestionResponse;
+__unknown_file (httpUriRequest"23*⁄
+12P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaQ= Q(Bâ
+Ü
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaQ= Q(G
+%16"__id*%*#
+java.util.logging.Level"
+INFOÔ
+Ï
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaQ Q(f
+%17"\java.util.logging.Logger#log(Ljava/util/logging/Level;Ljava/lang/String;Ljava/lang/Object;)V*
+
+%15*
+
+%16*
+[Entity] : *
+
+entityString*
+11*Ã
+23P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaI I(pn
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaI I(
+%0"com.google.gson.GsonÉ
+Ä
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaI I(
+%1"com.google.gson.Gson#<init>()V*
+
+%0j
+h
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaI I(
+gson"__id*
+
+%0~|
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaJ0 J(@
+%2""restapi.responses.QuestionResponseë
+é
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaJ, J(B
+%3",restapi.responses.QuestionResponse#<init>()V*
+
+%2v
+t
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaJ J(C
+questionResponse"__id*
+
+%2*
+22*¥
+13P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaQ Q(8’
+“
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaQ Q(8
+%15"Pjava.util.logging.Logger#getLogger(Ljava/lang/String;)Ljava/util/logging/Logger;*"
+java.util.logging.Logger*
+
+%14*
+12*Â
+14P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaP P(Es
+q
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaP P(E
+entityString"__id*
+
+%13ë
+é
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaQ Q(7
+%14"+java.lang.Class#getName()Ljava/lang/String;*
+""*
+13*∑
+15P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaO O(5m
+k
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaO O(5
+entity"__id*
+
+%12È
+Ê
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaP( P(D
+%13"Yorg.apache.http.util.EntityUtils#toString(Lorg/apache/http/HttpEntity;)Ljava/lang/String;*$""
+ org.apache.http.util.EntityUtils*
+
+
+entity*
+14*è
+16P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaO  O((∞
+≠
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaO  O(4
+%12"Dorg.apache.http.HttpResponse#getEntity()Lorg/apache/http/HttpEntity;*
+
+
+response*
+15*ß
+17P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaNI N(vÑ
+Å
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaNI N(v
+%10"__concat*
+[Status Line] : *
+
+%9¡
+æ
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN N(w
+%11"Jjava.util.logging.Logger#log(Ljava/util/logging/Level;Ljava/lang/String;)V*
+
+%7*
+
+%8*
+
+%10*
+16*ù
+18P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN= N(Bà
+Ö
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN= N(G
+%8"__id*%*#
+java.util.logging.Level"
+INFO≥
+∞
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN^ N(v
+%9"Horg.apache.http.HttpResponse#getStatusLine()Lorg/apache/http/StatusLine;*
+
+
+response*
+17*≤
+19P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN N(8”
+–
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN N(8
+%7"Pjava.util.logging.Logger#getLogger(Ljava/lang/String;)Ljava/util/logging/Logger;*"
+java.util.logging.Logger*
+
+%6*
+18*ø
+1P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaY Y("h
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaY Y( 
+
+questionResponse*”
+2P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaR R(Rw
+u
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaR R(R
+questionResponse"__id*
+
+%18*
+1*ﬂ
+20P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaM M(Pn
+l
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaM M(P
+
+response"__id*
+
+%5ê
+ç
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaN N(7
+%6"+java.lang.Class#getName()Ljava/lang/String;*
+""*
+19*Ò
+21P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaL L(Ip
+n
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaL L(I
+
+httpClient"__id*
+
+%4†
+ù
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaM. M(P
+%5"ûorg.apache.http.impl.client.CloseableHttpClient#execute(Lorg/apache/http/client/methods/HttpUriRequest;)Lorg/apache/http/client/methods/CloseableHttpResponse;*
+
+
+httpClient*
+
+httpUriRequest*
+20*¥
+11P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaR R(#÷
+”
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaR R(R
+%18"Tcom.google.gson.Gson#fromJson(Ljava/lang/String;Ljava/lang/Class;)Ljava/lang/Object;*
+
+gson*
+
+entityString*
+""*
+2*—
+22P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaL. L(9Ú
+Ô
+P
+FD:\Software Big Idea\Application\src\main\java\restapi\RestClient.javaL. L(I
+%4"horg.apache.http.impl.client.HttpClients#createDefault()Lorg/apache/http/impl/client/CloseableHttpClient;*+")
+'org.apache.http.impl.client.HttpClients*
+21

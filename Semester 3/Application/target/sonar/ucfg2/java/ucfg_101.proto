@@ -1,0 +1,28 @@
+
+3quizgame.QuizClient#getQuestion(I)Ldomain/Question;
+__unknown_file ("1*ø
+1S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.java‡ ‡(ž
+›
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.java‡ ‡(
+%0domain.Playblock"__id*&*$
+quizgame.QuizClient"
+	playBlockÉÆ
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.java‡ ‡(,
+%1java.util.List"/domain.Playblock#getQuestions()Ljava/util/List;*
+
+%0domain.Playblock2getQuestions()À½
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.java‡ ‡(<
+%2domain.Question"'java.util.List#get(I)Ljava/lang/Object;*
+
+%1java.util.List*
+""2get(I)"n
+S
+GD:\Software Big Idea\Application\src\main\java\quizgame\QuizClient.java‡ ‡(=
+
+%2domain.Question:
+""B
+quizgame.QuizClient

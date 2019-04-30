@@ -1,0 +1,5 @@
+
+Lsquid:S1068
+")Remove this unused "score" private field.(ð„É«ÿÿÿÿÿ8ýº»Ì„-
+wsquid:S1450
+"TRemove the "score" field and declare it as a local variable in the relevant methods.(ð„É«ÿÿÿÿÿ8ýº»Ì„-

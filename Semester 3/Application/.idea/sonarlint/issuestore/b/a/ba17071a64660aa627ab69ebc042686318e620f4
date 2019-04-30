@@ -1,0 +1,4 @@
+
+msquid:S2259L"JA "NullPointerException" could be thrown; "matchPlayers" is nullable here.(Ëğ ïüÿÿÿÿ8ˆÏ¸½„-
+Bsquid:S3457#"%String contains no format specifiers.(À @8¤‡Û½„-
+ squid:ForLoopCounterChangedCheck+"XRefactor the code in order to not assign to this loop counter from within the loop body.(Ğ–ÿÜÿÿÿÿÿ8ˆÏ¸½„-

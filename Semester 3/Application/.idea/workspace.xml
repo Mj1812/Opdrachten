@@ -1,0 +1,1263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f51c9181-e19d-4ae9-84a3-596e6e1f97cf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/restapi/RestQuestionClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Application.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Application.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a397e280eba2141804dcc7e43cb4114dbc6ed8c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/a/1a397e280eba2141804dcc7e43cb4114dbc6ed8c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30b70cbf299016f975e1389e86590d96668d612d" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/0/30b70cbf299016f975e1389e86590d96668d612d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/6/363114fd70192c774d75fcc2d5eb848def93e9d5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/3/435b6fe399178038468210d7d668612525454eab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6976737bbb66c19c3f22312818475057bec931aa" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/9/6976737bbb66c19c3f22312818475057bec931aa" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/7865ab012832bd073198b14d9663ae29ccee6152" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78ac8c6b65ce010636667af607509519c431f66c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78ac8c6b65ce010636667af607509519c431f66c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78fbf0109d2dad11c85a567e4ef345414ed9e2d6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78fbf0109d2dad11c85a567e4ef345414ed9e2d6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/a/7a615dfaa1cf50b764c3066fe38f43ab9e306210" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81f12ab64900647e428c0872d5e93793819ebfa1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/1/81f12ab64900647e428c0872d5e93793819ebfa1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9596e4340c0ec3bf66375e43c25ed586d9044997" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/5/9596e4340c0ec3bf66375e43c25ed586d9044997" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a56e020bf809344d62b60c65965870c1ca99897b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a56e020bf809344d62b60c65965870c1ca99897b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8a76b9022772feafd6dfa89f7cdd3e7b04679f6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8a76b9022772feafd6dfa89f7cdd3e7b04679f6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba17071a64660aa627ab69ebc042686318e620f4" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/a/ba17071a64660aa627ab69ebc042686318e620f4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7ccddb359aef28c976941f1501097ed668143b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/a/ca7ccddb359aef28c976941f1501097ed668143b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/d/cd6cce398e61c76e36ee2655dd5a61a27789a45d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cea51f27164c11edb56e6e1573f26d8be676a954" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/e/cea51f27164c11edb56e6e1573f26d8be676a954" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fde19581a21fd4c8db05fa906281265422930fad" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/d/fde19581a21fd4c8db05fa906281265422930fad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/contextinterfaces/IAuthenticationContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/contextinterfaces/IAuthenticationContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizAuthenticationMSSQLContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizAuthenticationMSSQLContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizQuestionMSSQLContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizQuestionMSSQLContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/data/testcontexts/QuizAuthenticationTestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/data/testcontexts/QuizAuthenticationTestContext.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/domain/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/domain/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/logic/repositories/AuthenticationRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/logic/repositories/AuthenticationRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/quizgame/QuizClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/quizgame/QuizClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/resources/GUIQuiz.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/resources/GUIQuiz.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/RestClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restapi/RestAuthenticationClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/RestServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restapi/RestServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/AuthenticationServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/IAuthenticationServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/IAuthenticationServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/IQuestionServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/IQuestionServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/QuestionServer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/services/AuthenticationService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restapi/services/AuthenticationService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/restapi/services/QuestionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/restapi/services/QuestionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/MatchPlayers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/websockets/MatchPlayers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/WebSocketServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/websockets/WebSocketServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/messages/MatchDoneMessage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/sockets/ClientSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/websockets/sockets/ClientSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/sockets/ServerSocket.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/websockets/sockets/ServerSocket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/websockets/websocketcontexten/QuizServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/websockets/websocketcontexten/QuizServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/logic/repositories/QuestionRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/logic/repositories/QuestionRepositoryTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/models/PlayblockTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/models/PlayblockTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/websockets/MessagesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/websockets/MessagesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/GUIQuiz.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/GUIQuiz.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/contextinterfaces/IAuthenticationContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/contextinterfaces/IAuthenticationContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/mssqlcontexts/QuizAuthenticationMSSQLContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/mssqlcontexts/QuizAuthenticationMSSQLContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/mssqlcontexts/QuizQuestionMSSQLContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/mssqlcontexts/QuizQuestionMSSQLContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data/testcontexts/QuizAuthenticationTestContext.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data/testcontexts/QuizAuthenticationTestContext.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/domain/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/domain/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/logic/repositories/AuthenticationRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/logic/repositories/AuthenticationRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/quizgame/QuizClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/quizgame/QuizClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/RestClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/RestServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/RestServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/restservercontexten/authentication/AuthenticationServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/restservercontexten/authentication/IAuthenticationServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/restservercontexten/authentication/IAuthenticationServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/restservercontexten/questions/IQuestionServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/restservercontexten/questions/IQuestionServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/restservercontexten/questions/QuestionServer.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/services/AuthenticationService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/services/AuthenticationService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/restapi/services/QuestionService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/restapi/services/QuestionService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/MatchPlayers.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/websockets/MatchPlayers.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/WebSocketServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/websockets/WebSocketServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/messages/MatchDoneMessage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/sockets/ClientSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/websockets/sockets/ClientSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/sockets/ServerSocket$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/websockets/sockets/ServerSocket$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/sockets/ServerSocket.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/websockets/sockets/ServerSocket.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/websockets/websocketcontexten/QuizServer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/websockets/websocketcontexten/QuizServer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/report-task.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/report-task.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_100.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_100.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_12.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_12.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_138.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_138.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_139.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_139.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_140.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_140.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_144.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_144.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_145.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_145.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_146.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_146.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_147.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_147.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_148.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_148.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_149.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_149.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_150.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_150.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_151.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_151.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_152.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_152.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_153.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_153.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_154.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_154.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_155.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_155.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_156.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_156.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_157.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_157.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_158.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_158.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_159.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_159.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_160.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_160.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_161.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_161.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_162.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_162.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_163.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_163.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_164.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_164.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_165.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_165.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_166.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_166.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_167.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_167.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_168.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_168.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_169.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_169.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_170.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_170.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_171.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_171.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_172.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_172.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_173.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_173.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_174.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_174.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_175.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_175.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_176.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_176.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_177.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_177.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_178.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_179.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_180.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_181.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_182.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_183.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_184.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_185.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_186.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_187.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_188.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_189.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_190.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_35.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_35.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_36.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_36.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_37.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_37.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_38.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_38.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_8.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_8.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_85.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_85.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_9.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_9.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_96.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_96.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_97.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg/java/ucfg_97.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/types.pb" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/types.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_100.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_100.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_12.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_12.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_138.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_138.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_139.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_139.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_140.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_140.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_144.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_144.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_145.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_145.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_146.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_146.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_147.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_147.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_148.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_148.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_149.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_149.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_150.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_150.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_151.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_151.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_152.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_152.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_153.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_153.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_154.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_154.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_155.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_155.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_156.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_156.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_157.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_157.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_158.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_158.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_159.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_159.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_160.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_160.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_161.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_161.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_162.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_162.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_163.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_163.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_164.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_164.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_165.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_165.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_166.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_166.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_167.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_167.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_168.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_168.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_169.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_169.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_170.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_170.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_171.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_171.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_172.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_172.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_173.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_173.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_174.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_174.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_175.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_175.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_176.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_176.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_177.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_177.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_178.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_179.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_180.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_181.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_182.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_183.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_184.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_185.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_186.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_187.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_188.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_189.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_190.proto" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_35.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_35.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_36.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_36.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_37.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_37.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_38.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_38.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_8.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_8.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_85.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_85.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_9.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_9.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_96.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_96.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_97.proto" beforeDir="false" afterPath="$PROJECT_DIR$/target/sonar/ucfg2/java/ucfg_97.proto" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/logic/repositories/QuestionRepositoryTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/logic/repositories/QuestionRepositoryTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/models/PlayblockTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/models/PlayblockTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/websockets/MessagesTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/websockets/MessagesTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentatie/Software Architecture Document.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Documentatie/Software Architecture Document.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Documentatie/Systeemtestplan.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../Documentatie/Systeemtestplan.docx" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/QuizBigIdea$WebSocketServer.ic" NAME="WebSocketServer Coverage Results" MODIFIED="1547391669764" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>websockets.sockets.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/QuizBigIdea$All_in_Application.ic" NAME="All in Application Coverage Results" MODIFIED="1547422352770" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/QuizBigIdea$Main.ic" NAME="Main Coverage Results" MODIFIED="1546807984848" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>quizgame.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="226" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/WebSocketServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizAuthenticationMSSQLContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizMSSQLContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/Message.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/MatchMadeMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/gui/QuizGameApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1581">
+              <caret line="113" column="21" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#7836#7837#0" expanded="true" />
+                <element signature="e#7880#7881#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/restapi/RestAuthenticationClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/restapi/services/AuthenticationService.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="54" selection-start-line="54" selection-end-line="54" selection-end-column="67" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/websockets/sockets/ClientSocket.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="44" column="5" selection-start-line="16" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2074">
+              <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>this.enem</find>
+      <find>playerAnswers</find>
+      <find>showA</find>
+      <find>getQuestions</find>
+      <find>restAPI</find>
+      <find>notifyS</find>
+      <find>&quot;Err</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restcontexten/IAuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restcontexten/AuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restcontexten/authentication/AuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/AuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/AuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/test/java/logic/repositories/QuestionRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/RestContextQuestions.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/responses/RegisterResponse.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/viewmodels/Authentication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/repositories/helperclasses/PasswordHasher.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/repositories/helperclasses/Algorithm.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/RestContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/RestClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Playblock.java" />
+        <option value="$PROJECT_DIR$/src/test/java/models/PlayblockTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messages/InitMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messages/MatchMadeMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messages/PlayerReadyMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/testcontexts/QuizQuestionTestContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/logic/repositories/AuthenticationRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/testcontexts/QuizAuthenticationTestContext.java" />
+        <option value="$PROJECT_DIR$/src/test/java/logic/repositories/AuthenticationRepositoryTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/messages/AnswerResultMessage.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/websocketcontexten/QuizServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/sockets/ClientSocket.java" />
+        <option value="$PROJECT_DIR$/src/test/java/websockets/MessagesTest.java" />
+        <option value="$PROJECT_DIR$/src/test/java/websockets/MatchPlayers.java" />
+        <option value="$PROJECT_DIR$/src/main/java/websockets/MatchPlayers.java" />
+        <option value="$PROJECT_DIR$/src/test/java/logic/repositories/helperclasses/AlgorithmTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/RestAuthenticationClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/RestQuestionClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizAuthenticationMSSQLContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/Main.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizQuestionMSSQLContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/data/contextinterfaces/IAuthenticationContext.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/IQuizAuthenticationClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/QuizQuestionClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/IQuizQuestionClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/IAuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/AuthenticationServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/services/AuthenticationService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/QuizAuthenticationClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/IQuizClient.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/IQuizAuthentication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/gui/QuizGameApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/QuestionServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/services/QuestionService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/IQuestionServer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/domain/Account.java" />
+        <option value="$PROJECT_DIR$/src/main/java/quizgame/QuizClient.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="QuizBigIdea" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="20" />
+    <option name="width" value="1440" />
+    <option name="height" value="840" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="gui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="repositories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="quizgame" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restapi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="QuizBigIdea" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="restapi" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="sqlserver" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547473976097" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="websockets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Software Big Idea\Application\src\main\java\resources" />
+      <recent name="D:\Software Big Idea\Application\src\main\java\resources\Game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.QuizGameApplication">
+    <configuration name="QuizGameApplication" type="Application" factoryName="Application" singleton="true" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="gui.QuizGameApplication" />
+      <module name="Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="gui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RestServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="restapi.RestServer" />
+      <module name="Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="restapi.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WebSocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="websockets.WebSocketServer" />
+      <module name="Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="websockets.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Application" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Application" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AuthenticationRepositoryTest.testLoginAccount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="logic.repositories.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="logic.repositories" />
+      <option name="MAIN_CLASS_NAME" value="logic.repositories.AuthenticationRepositoryTest" />
+      <option name="METHOD_NAME" value="testLoginAccount" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WebSocketServer" />
+      <item itemvalue="Application.RestServer" />
+      <item itemvalue="Application.QuizGameApplication" />
+      <item itemvalue="JUnit.All in Application" />
+      <item itemvalue="JUnit.AuthenticationRepositoryTest.testLoginAccount" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.QuizGameApplication" />
+        <item itemvalue="Application.RestServer" />
+        <item itemvalue="Application.WebSocketServer" />
+        <item itemvalue="JUnit.All in Application" />
+        <item itemvalue="JUnit.AuthenticationRepositoryTest.testLoginAccount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f51c9181-e19d-4ae9-84a3-596e6e1f97cf" name="Default Changelist" comment="" />
+      <created>1543392589683</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543392589683</updated>
+      <workItem from="1543392595774" duration="98000" />
+      <workItem from="1543399989497" duration="5519000" />
+      <workItem from="1543825714380" duration="343000" />
+      <workItem from="1543826696381" duration="5918000" />
+      <workItem from="1543956338016" duration="3367000" />
+      <workItem from="1544000263128" duration="15549000" />
+      <workItem from="1544432788128" duration="10949000" />
+      <workItem from="1544518446829" duration="531000" />
+      <workItem from="1544779574626" duration="8750000" />
+      <workItem from="1544972290461" duration="17750000" />
+      <workItem from="1545001739550" duration="31223000" />
+      <workItem from="1545157522046" duration="5117000" />
+      <workItem from="1546513530735" duration="5195000" />
+      <workItem from="1546708701346" duration="59060000" />
+      <workItem from="1546844461066" duration="117514000" />
+      <workItem from="1547035148594" duration="6046000" />
+      <workItem from="1547045718643" duration="391000" />
+      <workItem from="1547046129870" duration="16475000" />
+      <workItem from="1547114083110" duration="5438000" />
+      <workItem from="1547209234563" duration="723000" />
+      <workItem from="1547209980709" duration="1036000" />
+      <workItem from="1547378482772" duration="47671000" />
+      <workItem from="1547463315517" duration="4543000" />
+      <workItem from="1550583438369" duration="401000" />
+      <workItem from="1550664747238" duration="30000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 16m 43s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 17m 14s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 25m 19s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuthenticationRepositoryTest_testLoginAccount - 2019.01.13 at 22h 27m 34s.xml">
+      <configuration name="AuthenticationRepositoryTest.testLoginAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AuthenticationRepositoryTest_testLoginAccount - 2019.01.13 at 22h 28m 41s.xml">
+      <configuration name="AuthenticationRepositoryTest.testLoginAccount" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 29m 35s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 30m 04s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 32m 00s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.13 at 22h 37m 52s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Application - 2019.01.14 at 00h 32m 36s.xml">
+      <configuration name="All in Application" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="369637000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30402684" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="SonarLint" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Sequence" order="15" weight="0.3286119" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19798657" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.3286119" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="bottom" id="SonarLint" order="14" weight="0.3286119" />
+      <window_info anchor="bottom" id="Sequence" order="15" weight="0.3286119" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.3295302" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="3" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Database" order="5" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Maven" order="7" weight="0.3295302" />
+      <window_info anchor="right" id="Capture Analysis" order="8" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/logic/repositories/QuestionRepositoryTest.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/models/AccountTest.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/quizgame/QuizClient.java</url>
+          <line>153</line>
+          <properties />
+          <option name="timeStamp" value="111" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="this" />
+        <watch expression="this" />
+        <watch expression="this" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/AnswerResultMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/websockets/MatchPlayers.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/websockets/MessagesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="23" selection-start-column="4" selection-end-line="26" selection-end-column="5" />
+          <folding>
+            <element signature="e#677#678#0" expanded="true" />
+            <element signature="e#772#773#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/logic/repositories/helperclasses/AlgorithmTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/MatchPlayers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="13" column="16" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="5" lean-forward="true" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizQuestionMSSQLContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-251">
+          <caret line="28" column="49" selection-start-line="28" selection-start-column="49" selection-end-line="28" selection-end-column="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/contextinterfaces/IQuestionContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/repositories/QuestionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="e#524#525#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/PlayerReadyMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/StartGameMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/QuizQuestionClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/IQuizQuestionClient.java" />
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_191/javafx-src.zip!/javafx/fxml/FXMLLoader.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/IQuizAuthenticationClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/IAuthenticationServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/restservercontexten/authentication/AuthenticationServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/QuizAuthenticationClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/IQuizAuthentication.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/QuestionServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/restservercontexten/questions/IQuestionServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/services/QuestionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="37" column="59" selection-start-line="37" selection-start-column="8" selection-end-line="37" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/repositories/AuthenticationRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="20" column="20" lean-forward="true" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Playblock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Question.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Account.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Match.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/domain/Player.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/InitMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/AnsweredMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/testcontexts/QuizAuthenticationTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="205">
+          <caret line="21" column="13" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/RestServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/RestQuestionClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/IQuizClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-204">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/sockets/ServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="54" column="31" selection-start-line="54" selection-start-column="31" selection-end-line="54" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/contextinterfaces/IAuthenticationContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/websocketcontexten/interfaces/IQuizServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/repositories/helperclasses/PasswordHasher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#157#158#0" expanded="true" />
+            <element signature="e#221#222#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/websocketcontexten/QuizServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1139">
+          <caret line="67" column="13" selection-start-line="67" selection-start-column="13" selection-end-line="67" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/logic/repositories/helperclasses/Algorithm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="25" column="28" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
+          <folding>
+            <element signature="e#190#191#0" expanded="true" />
+            <element signature="e#230#231#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/quizgame/QuizClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1615">
+          <caret line="115" column="28" selection-start-line="115" selection-start-column="28" selection-end-line="115" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/WebSocketServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizAuthenticationMSSQLContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="28" column="10" selection-start-line="28" selection-start-column="10" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/data/mssqlcontexts/QuizMSSQLContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/messages/MatchMadeMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/gui/QuizGameApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1581">
+          <caret line="113" column="21" selection-start-line="113" selection-start-column="21" selection-end-line="113" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#7836#7837#0" expanded="true" />
+            <element signature="e#7880#7881#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/RestAuthenticationClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/websockets/sockets/ClientSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="44" column="5" selection-start-line="16" selection-start-column="3" selection-end-line="44" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2074">
+          <caret line="122" column="21" selection-start-line="122" selection-start-column="21" selection-end-line="122" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/restapi/services/AuthenticationService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="54" selection-start-line="54" selection-end-line="54" selection-end-column="67" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Application</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: junit:junit:4.12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="sonar:sonar    -Dsonar.projectKey=Mj1812_BigIdea   -Dsonar.organization=mj1812-github   -Dsonar.host.url=https://sonarcloud.io    -Dsonar.login=31b9039969f558a8f749fec830247a0f5d2ee1ed" />
+  </component>
+</project>
